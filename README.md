@@ -65,3 +65,8 @@ Web3 frontend application for Solana ecosystem with:
 
 LinkedIn:
 www.linkedin.com/in/nitin-jaiswal-219545328
+
+Email:
+nitinjaiswal49@gmail.com
+
+⭐ Always learning, building, and improving.
