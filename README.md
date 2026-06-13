@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi, I'm Nitin Jaiswal 👋
 
-<!--
-**nitinjaiswal02/nitinjaiswal02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Full Stack Developer focused on building scalable web applications and exploring Blockchain technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently building and improving real-world full-stack applications
+- Learning System Design, Smart Contracts, Web3, and Advanced Backend Architecture
+- Experienced with React, Node.js, Express, MongoDB, Firebase
+- Exploring Solidity, Hardhat, Ethereum, and Solana
+- Interested in building products that solve real user problems
+- Constantly improving DSA and problem-solving skills
+
+### Tech Stack
+
+- Frontend: React, JavaScript, HTML, CSS
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: Firebase Authentication
+- Blockchain: Solidity, Hardhat
+- Tools: Git, GitHub, Render, Vercel
+
+### Featured Projects
+
+#### RentApp
+Property and tenant management platform with:
+- Firebase Authentication
+- Property Management
+- Tenant Management
+- Rent Tracking
+- Payment History
+- Secure User-Based Data Isolation
+- REST API Backend
+- MongoDB Integration
+- MERN Stack Architecture
+
+#### Ledger Backend
+Production-oriented backend application with:
+- Modular Folder Structure
+- REST API Architecture
+- MongoDB Integration
+- Authentication & Authorization
+- Controller-Service Separation
+- Scalable Backend Design
+- Environment-Based Configuration
+- Production Deployment Ready
+
+#### Solana Faucet UI
+Web3 frontend application for Solana ecosystem with:
+- Solana Wallet Integration
+- Devnet Support
+- Token Airdrop Interface
+- Responsive User Interface
+- React-Based Architecture
+- Web3 User Experience
+
+### Currently Learning
+
+- System Design
+- Advanced Backend Architecture
+- Smart Contracts
+- Web3 Development
+
+### Connect With Me
+
+LinkedIn:
+www.linkedin.com/in/nitin-jaiswal-219545328
